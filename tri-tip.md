@@ -19,7 +19,7 @@ Classic tri-tip steak. Depending on size, can serve quite a few people.
 
 
 
-# Directions
+## Directions
 
 1. Set oven to broil and allow it to come up to temperature.
 1. Season the steak as desired.
