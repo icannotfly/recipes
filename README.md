@@ -6,10 +6,10 @@ hungry?
 
 ## Mains
 
-- [Tri-tip Steak](tri-tip.md)
+- [Tri-tip Steak](main/tri-tip.md): classic, oven-broiled tri-tip.
 
 
 
 ## Side Dishes
 
-- [Smashed Potatoes](smashedPotatoes.md)
+- [Smashed Potatoes](side/smashedPotatoes.md): simple. Goes great with a steak.
