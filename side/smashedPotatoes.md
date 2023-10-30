@@ -26,8 +26,8 @@ Smashed potatoes with ranch dip. Excellent on their own or served with a steak.
 
 ## Directions
 
-1. Clean poatoes. Boil in water for 25 - 35 minutes, depending on size. Larger potatoes will need longer to boil.
-1. Preheat oven to 425&deg; F.
+1. Clean potatoes. Boil in water for 25 - 35 minutes, depending on size. Larger potatoes will need longer to boil.
+1. Preheat oven to 425 &deg;F.
 1. When done, drain potatoes and let cool until safe to handle.
 1. Brush olive oil over the baking sheet, ensuring even coverage.
 1. Evenly distribute the potatoes across the baking sheet. Use a the bottom of a cup or of a Mason jar, compress the potatoes to a minimum height of 1/2 to 3/4 inch. Any thinner, and the potatoes will not hold together. Thicker potatoes will be less crispy than thinner ones.
