@@ -18,7 +18,8 @@ Hungry?
 
 ## Side Dishes
 
-- [Smashed Potatoes](side/smashedPotatoes.md): simple. Goes great with a steak.
+- [Roasted Potatoes](side/roastedPotatoes.md): makes great leftovers.
+- [Smashed Potatoes](side/smashedPotatoes.md): simple.
 
 
 
