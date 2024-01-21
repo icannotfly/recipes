@@ -4,6 +4,12 @@ Hungry?
 
 
 
+## Breakfast
+
+- [French Toast](breakfast/frenchToast.md): with a little bit of cinnamon.
+
+
+
 ## Mains
 
 - [Tri-tip Steak](main/tri-tip.md): classic, oven-broiled tri-tip.
