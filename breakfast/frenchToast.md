@@ -9,10 +9,12 @@ Classic, flavorful french toast. Nothing too fancy.
 - 2/3 cup milk
 - 2 eggs
 - 1 tsp vanilla extract
-- 1/2 tsp ground cinnamon
+- ground cinnamon *
 - 1 to 2 tbsp butter
 - A pinch of salt
 - 6 slices brioche bread
+
+\* "cinnamon you measure with your heart", but 1/2 tsp is a good starting place
 
 
 
