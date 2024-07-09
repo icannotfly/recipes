@@ -16,9 +16,15 @@ Hungry?
 
 
 
+## Soup
+
+- [Butternut Squash Soup](soup/butternutSquashSoup.md): good all year round, but especially great in the fall or winter.
+
+
+
 ## Side Dishes
 
-- [Roasted Potatoes](side/roastedPotatoes.md): makes great leftovers.
+- [Roasted Potatoes](side/roastedPotatoes.md): with carrots and onion. Makes great leftovers.
 - [Smashed Potatoes](side/smashedPotatoes.md): simple.
 
 
