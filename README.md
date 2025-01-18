@@ -24,8 +24,10 @@ Hungry?
 
 ## Side Dishes
 
+### Starch
 - [Roasted Potatoes](side/roastedPotatoes.md): with carrots and onion. Makes great leftovers.
 - [Smashed Potatoes](side/smashedPotatoes.md): simple.
+- [Mashed Potatoes](side/mashedPotatoes.md): pairs well with just about anything.
 
 
 
