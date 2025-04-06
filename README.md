@@ -7,6 +7,7 @@ Hungry?
 ## Breakfast
 
 - [French Toast](breakfast/frenchToast.md): with a little bit of cinnamon.
+- [Mlyntsi (Crepes)](breakfast/mlyntsi.md): quick and easy to make.
 
 
 
